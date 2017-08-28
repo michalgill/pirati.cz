@@ -32,3 +32,7 @@ Kontaktujte koordinátora Pirátů pro Moravskoslezský kraj, Michala Gilla, na 
 
 Podívejte se na konkrétní termíny akcí v [kalendáři]({{ '/pripoj-se/kalendar/' | relative_url }}),
 abyste se ujistili, že akce bude.
+
+### Volby 2017
+
+* [kandidátní listina](https://www.pirati.cz/volby/2017/moravskoslezsko/)
